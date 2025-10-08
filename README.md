@@ -55,6 +55,6 @@ The model provides car price predictions with good accuracy.
 
 Visualization plots show relationships between different features and car price.
 
-⚙️ Model Used
+Model Used
 
 Lasso Regression — a linear regression model that uses L1 regularization to prevent overfitting.
